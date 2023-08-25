@@ -1,0 +1,71 @@
+{
+
+  "productName": "Magic Roller Electronic Dog Ball",
+
+  "manufacturingDate": "2022-11-01T11:46:07.921Z",
+
+  "manufacturer": "PawsIndia",
+
+  "price": 1399.00,
+
+  "description": "Magic Roller is an interactive dog toy to get your pet an incredible level of activity. It will act as a boredom buster for dogs. This automatic dog ball is battery-operated, and its movements will keep your furry buddy busy. The dog ball is designed to stimulate your pet's senses.",
+
+  "imageUrl": "https://cdn.shopify.com/s/files/1/1199/8502/products/magicroller1.jpg?v=1673004560"
+
+}
+
+
+
+
+{
+
+  "productName": "Petterati Pet Sanitizer",
+
+  "manufacturingDate": "2022-11-01T11:46:07.921Z",
+
+  "manufacturer": "Petterati",
+
+  "price": 241,
+
+  "description": "Spray it gently on your pet's coat and paws. Avoid sensitive areas such as nose, eyes & broken skin. Lastly wipe off to clean with a tissue or a cloth. Best used post outdoor activities.",
+
+  "imageUrl": "https://m.media-amazon.com/images/I/61NK9W6wudL._SY450_.jpg"
+
+}
+
+{
+
+    "firstName":"harry",
+
+    "lastName":"potter",
+
+    "email":"harry@gmail.com",
+
+    "password":"abcdef",
+
+    "confirmPassword":"abcdef",
+
+    "mobile":"95945869"
+
+}
+
+
+
+
+{
+
+    "firstName":"mike",
+
+    "lastName":"jones",
+
+    "email":"mikejones@gmail.com",
+
+    "password":"abcdef",
+
+    "confirmPassword":"abcdef",
+
+    "mobile":"9729754554",
+
+    "roles":["ROLE_USER"]
+
+}

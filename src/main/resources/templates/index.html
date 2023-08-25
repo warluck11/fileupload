@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+	<h1>Hello Spring Boot</h1>
+	
+	<form th:action="register" th:method="post" th:object="${userform}" enctype="multipart/form-data">
+		<label for="name">Name</label>
+		<input type="text" th:field="*{name}">
+		
+		<label for="email">Gamil</label>
+		<input type="email" th:field="*{email}">
+		
+		<label for="age">Age</label>
+		<input type="text" th:field="*{age}">
+		
+		<label>File</label>
+		<input type="file" name="file">
+	
+		<button type="submit">Submit</button>	
+	
+	</form>
+	
+<h1 th:text = "${message}">Message</h1>
+</body>
+</html>
